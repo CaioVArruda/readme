@@ -1,4 +1,4 @@
-![Banner Principal]()
+![Banner Principal](https://github.com/CaioVArruda/readme/blob/main/data%20scientist.jfif)
 
 ### Hi, there! My name is Caio and this is my Data Science / Machine Learning repository! 👋
 
